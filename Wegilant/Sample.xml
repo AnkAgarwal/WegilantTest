@@ -1,0 +1,14 @@
+<employees>
+	<employee id="111">
+		<ComapnyName>Wegilant</ComapnyName>
+		<Salary>12L</Salary>
+	</employee>
+	<employee id="112">
+		<ComapnyName>Microsoft</ComapnyName>
+		<Salary>10L</Salary>
+	</employee>
+	<employee id="113">
+		<ComapnyName>Snapdeal</ComapnyName>
+		<Salary>11L</Salary>
+	</employee>
+</employees>

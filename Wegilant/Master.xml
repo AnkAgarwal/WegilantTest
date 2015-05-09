@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<employees>
+  <employee id="111">
+    <firstname>Rakesh</firstname>
+    <lastname>Mishra</lastname>
+    <location>Bangalore</location>
+    <ComapnyName>Wegilant</ComapnyName>
+    <salary>12L</salary>
+  </employee>
+  <employee id="112">
+    <firstname>John</firstname>
+    <lastname>Davis</lastname>
+    <location>Chennai</location>
+    <ComapnyName>Microsoft</ComapnyName>
+    <salary>10L</salary>
+  </employee>
+  <employee id="113">
+    <firstname>Rajesh</firstname>
+    <lastname>Sharma</lastname>
+    <location>Pune</location>
+    <ComapnyName>Snapdeal</ComapnyName>
+    <salary>11L</salary>
+  </employee>
+</employees>
